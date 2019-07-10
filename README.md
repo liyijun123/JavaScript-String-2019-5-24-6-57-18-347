@@ -1,5 +1,16 @@
-## 作业要求 . 
-- fork本仓库 . 
-- 按照readme要求完成作业 . 
-- 将作业提交到github，把github地址提交回系统 . 
+<script type="text/javascript">
+var name = 'hello';
+var b=name.toUpperCase();
+alert(b);
+</script>
 
+
+<script type="text/javascript">
+var sentence = 'good afternoon, mr mike.';
+var b=name.toUpperCase();
+alert(b);
+</script>
+
+var money = '￥20';
+var num = parseInt(str.substring(1).substring(1).substring(1));
+alert(num);
